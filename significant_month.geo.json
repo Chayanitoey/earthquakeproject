@@ -1,0 +1,324 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.0534,-32.6979 ]
+    },
+    "properties": {
+    "time":"2021-11-03T03:17:48.410Z",
+    "depth":98.49,
+    "mag":5.7,
+    "magType":"mww",
+    "nst":null,
+    "gap":18,
+    "dmin":0.424,
+    "rms":0.71,
+    "net":"us",
+    "id":"us7000fr0v",
+    "updated":"2021-11-05T02:10:53.350Z",
+    "place":"53 km ENE of Los Andes, Chile",
+    "type":"earthquake",
+    "horizontalError":4.7,
+    "depthError":3,
+    "magError":"0.041",
+    "magNst":58,
+    "status":"reviewed",
+    "locationSource":"us",
+    "magSource":"us"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1973333,34.0168333 ]
+    },
+    "properties": {
+    "time":"2021-10-24T14:01:02.280Z",
+    "depth":17.15,
+    "mag":3.61,
+    "magType":"mw",
+    "nst":126,
+    "gap":15,
+    "dmin":0.01676,
+    "rms":0.24,
+    "net":"ci",
+    "id":"ci39841223",
+    "updated":"2021-11-01T05:29:33.780Z",
+    "place":"3km WSW of East Los Angeles, CA",
+    "type":"earthquake",
+    "horizontalError":0.15,
+    "depthError":0.27,
+    "magError":"",
+    "magNst":4,
+    "status":"reviewed",
+    "locationSource":"ci",
+    "magSource":"ci"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.8303,24.5714 ]
+    },
+    "properties": {
+    "time":"2021-10-24T05:11:34.344Z",
+    "depth":64.52,
+    "mag":6.2,
+    "magType":"mww",
+    "nst":null,
+    "gap":15,
+    "dmin":0.425,
+    "rms":1.36,
+    "net":"us",
+    "id":"us6000fx56",
+    "updated":"2021-10-28T18:09:20.901Z",
+    "place":"21 km SSE of Yilan, Taiwan",
+    "type":"earthquake",
+    "horizontalError":6.4,
+    "depthError":4,
+    "magError":"0.048",
+    "magNst":41,
+    "status":"reviewed",
+    "locationSource":"us",
+    "magSource":"us"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.3882,34.5883 ]
+    },
+    "properties": {
+    "time":"2021-10-19T05:32:32.668Z",
+    "depth":41.53,
+    "mag":5.9,
+    "magType":"mww",
+    "nst":null,
+    "gap":25,
+    "dmin":1.388,
+    "rms":0.52,
+    "net":"us",
+    "id":"us6000fvtm",
+    "updated":"2021-10-21T06:46:06.264Z",
+    "place":"147 km SE of Karpathos, Greece",
+    "type":"earthquake",
+    "horizontalError":5.6,
+    "depthError":3.6,
+    "magError":"0.05",
+    "magNst":38,
+    "status":"reviewed",
+    "locationSource":"us",
+    "magSource":"us"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 158.4815,-8.8768 ]
+    },
+    "properties": {
+    "time":"2021-10-15T02:44:57.920Z",
+    "depth":22.55,
+    "mag":6.4,
+    "magType":"mww",
+    "nst":null,
+    "gap":21,
+    "dmin":1.551,
+    "rms":0.87,
+    "net":"us",
+    "id":"us6000furk",
+    "updated":"2021-10-16T18:25:09.537Z",
+    "place":"Solomon Islands",
+    "type":"earthquake",
+    "horizontalError":4.9,
+    "depthError":4.4,
+    "magError":"0.078",
+    "magNst":16,
+    "status":"reviewed",
+    "locationSource":"us",
+    "magSource":"us"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.2556,35.1931 ]
+    },
+    "properties": {
+    "time":"2021-10-12T09:24:03.839Z",
+    "depth":10,
+    "mag":6.4,
+    "magType":"mww",
+    "nst":null,
+    "gap":20,
+    "dmin":0.82,
+    "rms":0.73,
+    "net":"us",
+    "id":"us6000ftxu",
+    "updated":"2021-10-17T17:55:29.061Z",
+    "place":"0 km SSE of Palekastro, Greece",
+    "type":"earthquake",
+    "horizontalError":5,
+    "depthError":1.8,
+    "magError":"0.051",
+    "magNst":37,
+    "status":"reviewed",
+    "locationSource":"us",
+    "magSource":"us"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -156.5532,56.2584 ]
+    },
+    "properties": {
+    "time":"2021-10-11T09:10:24.682Z",
+    "depth":69.1,
+    "mag":6.9,
+    "magType":"mww",
+    "nst":null,
+    "gap":null,
+    "dmin":null,
+    "rms":0.71,
+    "net":"ak",
+    "id":"ak021d1u1nos",
+    "updated":"2021-11-03T12:48:09.104Z",
+    "place":"114 km E of Chignik, Alaska",
+    "type":"earthquake",
+    "horizontalError":null,
+    "depthError":0.9,
+    "magError":"",
+    "magNst":null,
+    "status":"reviewed",
+    "locationSource":"ak",
+    "magSource":"ak"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.527166666667,18.8203333333333 ]
+    },
+    "properties": {
+    "time":"2021-10-10T21:48:36.560Z",
+    "depth":35.06,
+    "mag":6.21,
+    "magType":"ml",
+    "nst":54,
+    "gap":278,
+    "dmin":null,
+    "rms":0.12,
+    "net":"hv",
+    "id":"hv72748782",
+    "updated":"2021-11-04T21:58:42.962Z",
+    "place":"Hawaii region, Hawaii",
+    "type":"earthquake",
+    "horizontalError":0.52,
+    "depthError":0.93,
+    "magError":"0.153984707746698",
+    "magNst":25,
+    "status":"reviewed",
+    "locationSource":"hv",
+    "magSource":"hv"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.5221,-21.1889 ]
+    },
+    "properties": {
+    "time":"2021-10-09T10:58:31.956Z",
+    "depth":535,
+    "mag":6.9,
+    "magType":"mww",
+    "nst":null,
+    "gap":31,
+    "dmin":4.778,
+    "rms":0.64,
+    "net":"us",
+    "id":"us6000ft9g",
+    "updated":"2021-10-31T13:07:21.953Z",
+    "place":"Vanuatu region",
+    "type":"earthquake",
+    "horizontalError":9.7,
+    "depthError":1.9,
+    "magError":"0.05",
+    "magNst":38,
+    "status":"reviewed",
+    "locationSource":"us",
+    "magSource":"us"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.0664,35.5778 ]
+    },
+    "properties": {
+    "time":"2021-10-07T13:41:24.564Z",
+    "depth":62,
+    "mag":5.9,
+    "magType":"mww",
+    "nst":null,
+    "gap":29,
+    "dmin":1.785,
+    "rms":1.11,
+    "net":"us",
+    "id":"us6000fsl6",
+    "updated":"2021-11-02T08:28:01.085Z",
+    "place":"near the east coast of Honshu, Japan",
+    "type":"earthquake",
+    "horizontalError":6,
+    "depthError":1.9,
+    "magError":"0.055",
+    "magNst":32,
+    "status":"reviewed",
+    "locationSource":"us",
+    "magSource":"us"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 67.9957,30.1936 ]
+    },
+    "properties": {
+    "time":"2021-10-06T22:01:08.867Z",
+    "depth":9,
+    "mag":5.9,
+    "magType":"mww",
+    "nst":null,
+    "gap":17,
+    "dmin":4.424,
+    "rms":0.52,
+    "net":"us",
+    "id":"us6000fsg9",
+    "updated":"2021-10-27T04:06:25.625Z",
+    "place":"11 km NNE of Harnai, Pakistan",
+    "type":"earthquake",
+    "horizontalError":8.4,
+    "depthError":1.7,
+    "magError":"0.098",
+    "magNst":10,
+    "status":"reviewed",
+    "locationSource":"us",
+    "magSource":"us"
+    }
+  }
+]
+}

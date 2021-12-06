@@ -1,0 +1,823 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generated": 1636378834000,
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query.geojson?starttime=1900-01-01%2000:00:00&endtime=2017-04-07%2023:59:59&minmagnitude=8&orderby=magnitude&limit=20",
+    "title": "USGS Earthquakes",
+    "status": 200,
+    "api": "1.12.3",
+    "count": 20,
+    "limit": 20,
+    "offset": 1
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 9.5,
+        "place": "1960 Great Chilean Earthquake (Valdivia Earthquake)",
+        "time": -303281320000,
+        "updated": 1601056815563,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19600522191120_30",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official19600522191120_30&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": 8.842,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 1388,
+        "net": "official",
+        "code": "19600522191120_30",
+        "ids": ",iscgem879136,official19600522191120_30,atlas19600522191117,",
+        "sources": ",iscgem,official,atlas,",
+        "types": ",general-header,ground-failure,impact-text,origin,shakemap,trump-origin,trump-shakemap,",
+        "nst": null,
+        "dmin": null,
+        "rms": null,
+        "gap": null,
+        "magType": "mw",
+        "type": "earthquake",
+        "title": "M 9.5 - 1960 Great Chilean Earthquake (Valdivia Earthquake)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.407,
+          -38.143,
+          25
+        ]
+      },
+      "id": "official19600522191120_30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 9.2,
+        "place": "1964 Prince William Sound Earthquake, Alaska",
+        "time": -181859024000,
+        "updated": 1601057183225,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19640328033616_30",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official19640328033616_30&format=geojson",
+        "felt": 452,
+        "cdi": 9.1,
+        "mmi": 8.392,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 1713,
+        "net": "official",
+        "code": "19640328033616_30",
+        "ids": ",akgoodfrid,official19640328033616_30,ushis2642,iscgem869809,atlas19640328033612,",
+        "sources": ",ak,official,ushis,iscgem,atlas,",
+        "types": ",dyfi,general-header,general-link,ground-failure,impact-text,origin,shakemap,trump-origin,trump-shakemap,",
+        "nst": null,
+        "dmin": null,
+        "rms": null,
+        "gap": null,
+        "magType": "mw",
+        "type": "earthquake",
+        "title": "M 9.2 - 1964 Prince William Sound Earthquake, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.339,
+          60.908,
+          25
+        ]
+      },
+      "id": "official19640328033616_30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 9.1,
+        "place": "2004 Sumatra - Andaman Islands Earthquake",
+        "time": 1104022733450,
+        "updated": 1594161687143,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official20041226005853450_30",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official20041226005853450_30&format=geojson",
+        "felt": 886,
+        "cdi": 9.1,
+        "mmi": 7.909,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 2080,
+        "net": "official",
+        "code": "20041226005853450_30",
+        "ids": ",us2004slav,official20041226005853450_30,duputel122604a,choy20041226005853,gcmtm122604a,usp000dbed,gcmt20041226005850,atlas20041226005853,iscgem7453151,",
+        "sources": ",us,official,duputel,choy,gcmt,us,gcmt,atlas,iscgem,",
+        "types": ",associate,dyfi,focal-mechanism,general-header,general-text,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-origin,trump-shakemap,",
+        "nst": 601,
+        "dmin": null,
+        "rms": 1.17,
+        "gap": 22,
+        "magType": "mw",
+        "type": "earthquake",
+        "title": "M 9.1 - 2004 Sumatra - Andaman Islands Earthquake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.982,
+          3.295,
+          30
+        ]
+      },
+      "id": "official20041226005853450_30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 9.1,
+        "place": "2011 Great Tohoku Earthquake, Japan",
+        "time": 1299822384120,
+        "updated": 1613488959454,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official20110311054624120_30",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official20110311054624120_30&format=geojson",
+        "felt": 1357,
+        "cdi": 9.1,
+        "mmi": 8.18,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 2184,
+        "net": "official",
+        "code": "20110311054624120_30",
+        "ids": ",usc0001xgp,usp000hvnu,choy20110311054623,official20110311054624120_30,duputel201103110546a,atlas20110311054624,iscgem16461282,",
+        "sources": ",us,us,choy,official,duputel,atlas,iscgem,",
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,general-header,general-link,general-text,ground-failure,impact-text,moment-tensor,origin,phase-data,poster,scitech-link,scitech-text,shakemap,trump-impact-text,trump-origin,trump-phase-data,trump-shakemap,",
+        "nst": 541,
+        "dmin": null,
+        "rms": 1.16,
+        "gap": 9.5,
+        "magType": "mww",
+        "type": "earthquake",
+        "title": "M 9.1 - 2011 Great Tohoku Earthquake, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.373,
+          38.297,
+          29
+        ]
+      },
+      "id": "official20110311054624120_30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 9,
+        "place": "89 km ESE of Petropavlovsk-Kamchatsky, Russia",
+        "time": -541407690000,
+        "updated": 1594391509751,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19521104165830_30",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official19521104165830_30&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": 6.98,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 1246,
+        "net": "official",
+        "code": "19521104165830_30",
+        "ids": ",iscgem893648,official19521104165830_30,",
+        "sources": ",iscgem,official,",
+        "types": ",general-header,impact-text,origin,shakemap,trump-origin,",
+        "nst": null,
+        "dmin": null,
+        "rms": null,
+        "gap": null,
+        "magType": "mw",
+        "type": "earthquake",
+        "title": "M 9.0 - 89 km ESE of Petropavlovsk-Kamchatsky, Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.779,
+          52.623,
+          21.6
+        ]
+      },
+      "id": "official19521104165830_30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 8.8,
+        "place": "1906 Ecuador-Colombia Earthquake",
+        "time": -2017038230000,
+        "updated": 1594391287187,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19060131153610_30",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official19060131153610_30&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": 7.079,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 1191,
+        "net": "official",
+        "code": "19060131153610_30",
+        "ids": ",iscgemsup16957884,official19060131153610_30,iscgem16957884,",
+        "sources": ",iscgemsup,official,is,",
+        "types": ",general-header,impact-text,origin,shakemap,trump-origin,",
+        "nst": null,
+        "dmin": null,
+        "rms": null,
+        "gap": null,
+        "magType": "mw",
+        "type": "earthquake",
+        "title": "M 8.8 - 1906 Ecuador-Colombia Earthquake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.369,
+          0.955,
+          20
+        ]
+      },
+      "id": "official19060131153610_30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 8.8,
+        "place": "36 km WNW of Quirihue, Chile",
+        "time": 1267252451530,
+        "updated": 1614194814976,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official20100227063411530_30",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official20100227063411530_30&format=geojson",
+        "felt": 2969,
+        "cdi": 8,
+        "mmi": 8.249,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 1991,
+        "net": "official",
+        "code": "20100227063411530_30",
+        "ids": ",usp000h7rf,us2010tfan,choy20100227063411,gcmtc201002270634a,official20100227063411530_30,duputel201002270634a,gcmt20100227063415,atlas20100227063414,iscgem14340585,",
+        "sources": ",us,us,choy,gcmt,official,duputel,gcmt,atlas,iscgem,",
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,general-header,general-text,ground-failure,impact-text,moment-tensor,origin,phase-data,poster,scitech-link,scitech-text,shakemap,trump-impact-text,trump-origin,trump-phase-data,trump-shakemap,",
+        "nst": 454,
+        "dmin": null,
+        "rms": 1.09,
+        "gap": 17.8,
+        "magType": "mww",
+        "type": "earthquake",
+        "title": "M 8.8 - 36 km WNW of Quirihue, Chile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.898,
+          -36.122,
+          22.9
+        ]
+      },
+      "id": "official20100227063411530_30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 8.7,
+        "place": "Rat Islands, Aleutian Islands, Alaska",
+        "time": -154810718000,
+        "updated": 1594391638700,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19650204050122_30",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official19650204050122_30&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": 6.926,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 1164,
+        "net": "official",
+        "code": "19650204050122_30",
+        "ids": ",iscgem859206,official19650204050122_30,ushis2741,atlas19650204050121,",
+        "sources": ",iscgem,official,ushis,atlas,",
+        "types": ",general-header,impact-text,origin,shakemap,trump-origin,trump-shakemap,",
+        "nst": null,
+        "dmin": null,
+        "rms": null,
+        "gap": null,
+        "magType": "mw",
+        "type": "earthquake",
+        "title": "M 8.7 - Rat Islands, Aleutian Islands, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.715,
+          51.251,
+          30.3
+        ]
+      },
+      "id": "official19650204050122_30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 8.6,
+        "place": "1946 Aleutian Islands (Unimak Island) Earthquake, Alaska",
+        "time": -749561459000,
+        "updated": 1594391459734,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19460401122901_30",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official19460401122901_30&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": 6.757,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 1138,
+        "net": "official",
+        "code": "19460401122901_30",
+        "ids": ",iscgem898313,official19460401122901_30,ushis1531,",
+        "sources": ",iscgem,official,ushis,",
+        "types": ",general-header,impact-text,origin,shakemap,trump-origin,",
+        "nst": null,
+        "dmin": null,
+        "rms": null,
+        "gap": null,
+        "magType": "mw",
+        "type": "earthquake",
+        "title": "M 8.6 - 1946 Aleutian Islands (Unimak Island) Earthquake, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.832,
+          53.492,
+          15
+        ]
+      },
+      "id": "official19460401122901_30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 8.6,
+        "place": "1950 Assam-Tibet Earthquake",
+        "time": -611574626000,
+        "updated": 1597437337044,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19500815140934_30",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official19500815140934_30&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": 7.955,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 1138,
+        "net": "official",
+        "code": "19500815140934_30",
+        "ids": ",iscgem895681,official19500815140934_30,",
+        "sources": ",iscgem,official,",
+        "types": ",general-header,ground-failure,impact-text,origin,shakemap,trump-origin,",
+        "nst": null,
+        "dmin": null,
+        "rms": null,
+        "gap": null,
+        "magType": "mw",
+        "type": "earthquake",
+        "title": "M 8.6 - 1950 Assam-Tibet Earthquake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.445,
+          28.363,
+          15
+        ]
+      },
+      "id": "official19500815140934_30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 8.6,
+        "place": "off the west coast of northern Sumatra",
+        "time": 1334133516720,
+        "updated": 1613676911150,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official20120411083836720_20",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official20120411083836720_20&format=geojson",
+        "felt": 3436,
+        "cdi": 9.1,
+        "mmi": 6.755,
+        "alert": "yellow",
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 2048,
+        "net": "official",
+        "code": "20120411083836720_20",
+        "ids": ",usp000jhh2,usc000905e,official20120411083836720_20,duputel201204110838a,atlas20120411083836,",
+        "sources": ",us,us,official,duputel,atlas,",
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,general-header,general-text,impact-text,losspager,moment-tensor,origin,phase-data,poster,shakemap,trump-origin,trump-phase-data,trump-shakemap,",
+        "nst": 499,
+        "dmin": null,
+        "rms": 1.33,
+        "gap": 16.6,
+        "magType": "mw",
+        "type": "earthquake",
+        "title": "M 8.6 - off the west coast of northern Sumatra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.063,
+          2.327,
+          20
+        ]
+      },
+      "id": "official20120411083836720_20"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 8.6,
+        "place": "78 km WSW of Singkil, Indonesia",
+        "time": 1112026176530,
+        "updated": 1594161708978,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official20050328160936530_30",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official20050328160936530_30&format=geojson",
+        "felt": 1650,
+        "cdi": 9.1,
+        "mmi": 8.475,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 2048,
+        "net": "official",
+        "code": "20050328160936530_30",
+        "ids": ",us2005weax,usp000dk85,choy20050328160936,gcmtc200503281609a,official20050328160936530_30,gcmt20050328160936,duputel200503281609a,atlas20050328160936,iscgem7486110,",
+        "sources": ",us,us,choy,gcmt,official,gcmt,duputel,atlas,iscgem,",
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,general-text,impact-text,moment-tensor,origin,phase-data,poster,shakemap,trump-impact-text,trump-origin,trump-phase-data,trump-shakemap,",
+        "nst": 510,
+        "dmin": null,
+        "rms": 0.91,
+        "gap": 22.1,
+        "magType": "mww",
+        "type": "earthquake",
+        "title": "M 8.6 - 78 km WSW of Singkil, Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.108,
+          2.085,
+          30
+        ]
+      },
+      "id": "official20050328160936530_30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 8.6,
+        "place": "81 km ESE of Adak, Alaska",
+        "time": -404386647000,
+        "updated": 1594391536970,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19570309142233_30",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official19570309142233_30&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": 7.043,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 1138,
+        "net": "official",
+        "code": "19570309142233_30",
+        "ids": ",iscgem886030,official19570309142233_30,ushis2135,",
+        "sources": ",iscgem,official,ushis,",
+        "types": ",general-header,impact-text,origin,shakemap,trump-origin,",
+        "nst": null,
+        "dmin": null,
+        "rms": null,
+        "gap": null,
+        "magType": "mw",
+        "type": "earthquake",
+        "title": "M 8.6 - 81 km ESE of Adak, Alaska"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.626,
+          51.499,
+          25
+        ]
+      },
+      "id": "official19570309142233_30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 8.5,
+        "place": "94 km ENE of Vallenar, Chile",
+        "time": -1487618829000,
+        "updated": 1594391337018,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19221111043251_30",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official19221111043251_30&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": 7.45,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 1112,
+        "net": "official",
+        "code": "19221111043251_30",
+        "ids": ",iscgem912062,official19221111043251_30,",
+        "sources": ",iscgem,official,",
+        "types": ",general-header,impact-text,origin,shakemap,trump-origin,",
+        "nst": null,
+        "dmin": null,
+        "rms": null,
+        "gap": null,
+        "magType": "mw",
+        "type": "earthquake",
+        "title": "M 8.5 - 94 km ENE of Vallenar, Chile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.852,
+          -28.293,
+          70
+        ]
+      },
+      "id": "official19221111043251_30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 8.5,
+        "place": "141 km WNW of Tual, Indonesia",
+        "time": -1007096138000,
+        "updated": 1594391400821,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19380201190422_30",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official19380201190422_30&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": 6.962,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 1112,
+        "net": "official",
+        "code": "19380201190422_30",
+        "ids": ",iscgem902352,official19380201190422_30,",
+        "sources": ",iscgem,official,",
+        "types": ",general-header,impact-text,origin,shakemap,trump-origin,",
+        "nst": null,
+        "dmin": null,
+        "rms": null,
+        "gap": null,
+        "magType": "mw",
+        "type": "earthquake",
+        "title": "M 8.5 - 141 km WNW of Tual, Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.614,
+          -5.045,
+          25
+        ]
+      },
+      "id": "official19380201190422_30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 8.5,
+        "place": "132 km ESE of Kuril’sk, Russia",
+        "time": -196281721000,
+        "updated": 1594391609712,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19631013051759_30",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official19631013051759_30&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": 6.803,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 1112,
+        "net": "official",
+        "code": "19631013051759_30",
+        "ids": ",iscgem873239,official19631013051759_30,",
+        "sources": ",iscgem,official,",
+        "types": ",general-header,origin,shakemap,trump-origin,",
+        "nst": null,
+        "dmin": null,
+        "rms": null,
+        "gap": null,
+        "magType": "mw",
+        "type": "earthquake",
+        "title": "M 8.5 - 132 km ESE of Kuril’sk, Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.483,
+          44.872,
+          35
+        ]
+      },
+      "id": "official19631013051759_30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 8.4,
+        "place": "121 km ESE of Mil’kovo, Russia",
+        "time": -1480319890000,
+        "updated": 1594391357294,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19230203160150_30",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official19230203160150_30&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": 7.172,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 1086,
+        "net": "official",
+        "code": "19230203160150_30",
+        "ids": ",iscgem911271,official19230203160150_30,",
+        "sources": ",iscgem,official,",
+        "types": ",general-header,origin,shakemap,trump-origin,",
+        "nst": null,
+        "dmin": null,
+        "rms": null,
+        "gap": null,
+        "magType": "mw",
+        "type": "earthquake",
+        "title": "M 8.4 - 121 km ESE of Mil’kovo, Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.472,
+          54.486,
+          15
+        ]
+      },
+      "id": "official19230203160150_30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 8.4,
+        "place": "6 km SSW of Atico, Peru",
+        "time": 993328394130,
+        "updated": 1597438243254,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official20010623203314130_33",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official20010623203314130_33&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": 8.112,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 1086,
+        "net": "official",
+        "code": "20010623203314130_33",
+        "ids": ",usp000ah4q,choy20010623203314,gcmtm062301e,official20010623203314130_33,duputel062301e,gcmt20010623203314,atlas20010623203314,iscgem1893467,",
+        "sources": ",us,choy,gcmt,official,duputel,gcmt,atlas,iscgem,",
+        "types": ",finite-fault,focal-mechanism,general-header,general-text,ground-failure,impact-text,moment-tensor,origin,phase-data,shakemap,trump-impact-text,trump-origin,trump-phase-data,trump-shakemap,",
+        "nst": 518,
+        "dmin": null,
+        "rms": 1.05,
+        "gap": null,
+        "magType": "mww",
+        "type": "earthquake",
+        "title": "M 8.4 - 6 km SSW of Atico, Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.641,
+          -16.265,
+          33
+        ]
+      },
+      "id": "official20010623203314130_33"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 8.4,
+        "place": "1933 Sanriku (Sanriku-oki) Earthquake, Japan",
+        "time": -1162362540000,
+        "updated": 1594391382363,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19330302173100_30",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official19330302173100_30&format=geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": 4.795,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 1086,
+        "net": "official",
+        "code": "19330302173100_30",
+        "ids": ",iscgem905420,official19330302173100_30,",
+        "sources": ",iscgem,official,",
+        "types": ",general-header,impact-text,origin,shakemap,trump-origin,",
+        "nst": null,
+        "dmin": null,
+        "rms": null,
+        "gap": null,
+        "magType": "mw",
+        "type": "earthquake",
+        "title": "M 8.4 - 1933 Sanriku (Sanriku-oki) Earthquake, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.59,
+          39.209,
+          15
+        ]
+      },
+      "id": "official19330302173100_30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 8.4,
+        "place": "122 km SW of Bengkulu, Indonesia",
+        "time": 1189595426830,
+        "updated": 1594391673565,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official20070912111026830_34",
+        "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=official20070912111026830_34&format=geojson",
+        "felt": 923,
+        "cdi": 8.2,
+        "mmi": 6.446,
+        "alert": null,
+        "status": "reviewed",
+        "tsunami": 0,
+        "sig": 1842,
+        "net": "official",
+        "code": "20070912111026830_34",
+        "ids": ",us2007hear,usp000fmz4,choy20070912111026,gcmtc200709121110a,official20070912111026830_34,duputel200709121110a,gcmt20070912111026,iscgem13203322,atlas20070912111026,",
+        "sources": ",us,us,choy,gcmt,official,duputel,gcmt,iscgem,atlas,",
+        "types": ",associate,dyfi,finite-fault,focal-mechanism,general-header,general-text,impact-text,moment-tensor,origin,phase-data,shakemap,trump-impact-text,trump-origin,trump-phase-data,trump-shakemap,",
+        "nst": 411,
+        "dmin": null,
+        "rms": 1.03,
+        "gap": 32.3,
+        "magType": "mww",
+        "type": "earthquake",
+        "title": "M 8.4 - 122 km SW of Bengkulu, Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.367,
+          -4.438,
+          34
+        ]
+      },
+      "id": "official20070912111026830_34"
+    }
+  ],
+  "bbox": [
+    -175.626,
+    -38.143,
+    15,
+    178.715,
+    60.908,
+    70
+  ]
+}
